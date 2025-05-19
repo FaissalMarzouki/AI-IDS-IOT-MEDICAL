@@ -1,6 +1,9 @@
+# Fichiers de données volumineux
+*.csv
+*.pcap
 *.pkl
-*.h5
-*.keras
-__pycache__/
-*.ipynb_checkpoints/
+0.05percent_*.csv
+# Dossiers à ignorer
 saved_models/
+__pycache__/
+.ipynb_checkpoints/
